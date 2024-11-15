@@ -1,8 +1,20 @@
 {
   "type": "module",
   "dependencies": {
+    "axios": "^1.7.7",
+    "cheerio": "^1.0.0",
     "express": "^4.21.1",
     "express-handlebars": "^8.0.1",
     "nodejs": "^0.0.0"
-  }
+  },
+  "name": "soloanim-web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
 }
