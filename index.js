@@ -18,9 +18,7 @@ app.get('/', (req, res) => {
     res.render('home');
 });
 
-app.post('/ScrappingIsBest', (req,res) => {
 
-});
 
 app.listen(PORT, () => {
     console.log(`Servidor corriendo en puerto ${PORT}`);
